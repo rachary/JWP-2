@@ -29,7 +29,7 @@
         </div>
 
     <!-- Travel Content -->
-    <div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;width:90%;height:100vh;overflow:auto;padding: 0 30px;border: 1px solid black;border-radius:8px;">
+    <div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;width:90%;height:100vh;overflow:auto;padding: 0 30px;border: 1px solid #888;border-radius:8px 0 0 8px;background:#FFE7CC">
         <div style="" v-for="destination in searchDestinations" :key="destination.name">
             <TravelContentComponent :destination="destination"/>
         </div>
