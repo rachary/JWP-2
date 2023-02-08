@@ -59,7 +59,7 @@
                 <li style="flex:25%">
                     <div style="display:flex;flex-direction:column;align-items:center;">
                         <h5>WISATA SURABAYA</h5>
-                        <img style="height:200px;" src="public\surabaya.png" alt="">
+                        <img style="height:200px;" src="\public\surabaya.png" alt="">
                     </div>
                 </li>
                 
